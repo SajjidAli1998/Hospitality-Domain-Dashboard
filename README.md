@@ -1,4 +1,4 @@
-# Hospitality-Domain-Dashboard
+# Hospitality-Domain-Key Insights
   
     Excited to share my venture into Hotel Data Analysis, diving deep into Key Performance Indicators (KPIs).
 
